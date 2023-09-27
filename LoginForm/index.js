@@ -123,6 +123,34 @@ class LoginForm extends Component {
             Login
           </button>
           {showSubmitError && <p className="error-message">*{errorMsg}</p>}
+          <details className="Credentials">
+            <summary>
+              <b>Credentials </b>
+              <span>(Username,Password)</span> :
+            </summary>
+            <hr />
+            <div className="Credential-container">
+              <div>
+                <p>Prime User credentials</p>
+                <p>
+                  Username: <b>rahul</b>
+                </p>
+                <p>
+                  Password: <b>rahul@2021</b>
+                </p>
+              </div>
+
+              <div>
+                <p>Non-Prime User credentials</p>
+                <p>
+                  Username: <b> raja</b>
+                </p>
+                <p>
+                  Password: <b> raja@2021</b>
+                </p>
+              </div>
+            </div>
+          </details>
         </form>
       </div>
     )
