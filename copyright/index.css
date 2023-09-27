@@ -1,0 +1,34 @@
+/* Add accessible CSS styles */
+.my-dev-container {
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent black */
+  padding: 2px;
+  width: 100%;
+  color: #fff;
+  /* position: fixed;
+  left: 0;
+  bottom: 0; */
+  /* z-index: 9999; */
+  margin: 0px;
+}
+
+.my-name {
+  font-weight: 700;
+  color: #8b5cf6; /* Accent color */
+  margin: 0 5px;
+}
+
+.anchor {
+  text-decoration: none;
+  color: #8b5cf6; /* Accent color */
+  font-weight: 700;
+  font-size: 14px;
+  margin-left: 10px;
+}
+
+.anchor:hover {
+  text-decoration: underline;
+}
+.my-text {
+  margin: 0px;
+}
