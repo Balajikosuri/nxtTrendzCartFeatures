@@ -2,7 +2,7 @@
 .my-dev-container {
   text-align: center;
   background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent black */
-  padding: 2px;
+  padding: 5px;
   width: 100%;
   color: #fff;
   /* position: fixed;
@@ -15,7 +15,7 @@
 .my-name {
   font-weight: 700;
   color: #8b5cf6; /* Accent color */
-  margin: 0 5px;
+  margin: 0px;
 }
 
 .anchor {
