@@ -1,7 +1,8 @@
 In this project, let's build a **Nxt Trendz - Cart Features** by applying the concepts we have learned till now.
 
 ### Refer to the video below:
-
+-[demo](https://balajiknxttr.ccbp.tech/products)
+user
 <br/>
 <div style="text-align: center;">
   <video style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12);outline:none;" loop="true" autoplay="autoplay" controls="controls" muted>
